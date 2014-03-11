@@ -1,5 +1,6 @@
 
 This is a demo site.
+Here's an extra line.
 
 CONTENTS OF THIS FILE
 ---------------------
